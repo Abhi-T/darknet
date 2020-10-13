@@ -1,0 +1,5 @@
+classes = 10
+train = /content/input/my-data/train.txt
+valid = /content/input/my-data/test.txt
+names = /content/input/my-data/classes.names
+backup = backup
